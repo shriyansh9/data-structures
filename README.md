@@ -6,5 +6,5 @@
 <ul>
   <li>Sorting</li>
   <li>Miscellaneous</li>
-
+  <li>Linked List</li>
 </ul>
